@@ -1,0 +1,10 @@
+E:\learn-webAPI\CoreEntityFramework\bin\Debug\netcoreapp2.0\CoreEntityFramework.deps.json
+E:\learn-webAPI\CoreEntityFramework\bin\Debug\netcoreapp2.0\CoreEntityFramework.runtimeconfig.json
+E:\learn-webAPI\CoreEntityFramework\bin\Debug\netcoreapp2.0\CoreEntityFramework.runtimeconfig.dev.json
+E:\learn-webAPI\CoreEntityFramework\bin\Debug\netcoreapp2.0\CoreEntityFramework.dll
+E:\learn-webAPI\CoreEntityFramework\bin\Debug\netcoreapp2.0\CoreEntityFramework.pdb
+E:\learn-webAPI\CoreEntityFramework\obj\Debug\netcoreapp2.0\CoreEntityFramework.csproj.CoreCompileInputs.cache
+E:\learn-webAPI\CoreEntityFramework\obj\Debug\netcoreapp2.0\CoreEntityFramework.AssemblyInfoInputs.cache
+E:\learn-webAPI\CoreEntityFramework\obj\Debug\netcoreapp2.0\CoreEntityFramework.AssemblyInfo.cs
+E:\learn-webAPI\CoreEntityFramework\obj\Debug\netcoreapp2.0\CoreEntityFramework.dll
+E:\learn-webAPI\CoreEntityFramework\obj\Debug\netcoreapp2.0\CoreEntityFramework.pdb
